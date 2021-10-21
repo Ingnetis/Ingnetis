@@ -20,7 +20,7 @@
 
     <div>
         <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs.svg"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/c.svg"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
